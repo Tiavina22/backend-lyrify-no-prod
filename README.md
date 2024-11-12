@@ -11,3 +11,15 @@ DB_PASSWORD=
 DB_DATABASE=
 PORT=
 ```
+
+## How to launch this project ?
+
+## Install the dependencies
+```bash
+npm install
+```
+
+## Start this project
+```bash
+npm start
+```
